@@ -1,0 +1,8 @@
+bin/
+obj/
+Properties/
+appsettings.Development.json
+appsettings.json
+dotnetgithub.csproj
+dotnetgithub.http
+dotnetgithub.sln
